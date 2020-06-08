@@ -1,0 +1,8 @@
+Welcome to reckon
+
+This Github account will focus on 
+IoT
+Machine Learning 
+Data Science 
+
+All the files uploaded here will be Jupyter Notebook.
